@@ -4,7 +4,7 @@
 
 يهدف هذا المشروع إلى بناء نموذج تعلم آلي للتنبؤ بانبعاثات ثاني أكسيد الكربون (CO2) للمركبات، مع التركيز على تحسين أداء النموذج باستخدام خوارزمية **Greylag Goose Optimization (GGO)** لضبط المعاملات الفائقة لنموذج **Multi-Layer Perceptron (MLP)**.
 
-تم استلهام المنهجية من البحث الأكاديمي المرفق: "Using Greylag Goose Optimization Algorithm for Optimizing CO2 Emissions Prediction in the Context of Electric Vehicles".
+تم استلهام المنهجية من البحث الأكاديمي المرفق: [Enhancing CO2 emissions prediction for electric vehicles using Greylag Goose Optimization and machine learning](https://www.nature.com/articles/s41598-025-99472-0)
 
 ## هيكل المشروع
 
